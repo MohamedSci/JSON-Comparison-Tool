@@ -1,0 +1,19 @@
+{
+    "name": "json-comparison-tool",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "A tool to compare JSON files across multiple folders.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "license":"Apache-2.0",
+    "author": {
+      "name": "Mohamed Said Ibrahim",
+      "email": "muhammedsaidsyed215@gmail.com"},
+      "dependencies": {
+        "csv-parser": "^3.2.0",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+      }
+  }
