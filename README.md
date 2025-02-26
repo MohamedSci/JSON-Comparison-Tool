@@ -79,17 +79,16 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Support
 For any questions or issues, please open an issue on the [GitHub repository](https://github.com/your-repo/json-comparison-tool).
-```
 
 ---
 
-## SEO-Friendly Tags for GitHub Repository
+##  GitHub Repository Topics
 ```
 json-comparison-tool, json-file-comparison, javascript-application, nodejs-tool, file-comparison, json-processing, recursive-file-search, line-by-line-comparison, cross-folder-comparison, data-comparison, json-diff, file-diff, automation-tool, open-source-tool, javascript, nodejs, es6-modules, file-system-module, async-await, data-analysis, data-validation, developers, data-engineers, open-source-project
 ```
