@@ -46,6 +46,9 @@ export async function compareAncestorFolders(ancestorFolders) {
           console.log(`Comparing:\n- ${filePaths[0]}\n- ${filePaths[i]}`);
           differences.forEach((diff) => console.log(diff));
           console.log("-----------------------------");
+        } else{
+          console.log("------ No Diffffffffffffffffff -----------------------");
+
         }
       }
     }
